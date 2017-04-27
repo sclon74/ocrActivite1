@@ -19,7 +19,7 @@ console.log("(La solution est " + solution + ")");
 var nbreChoisi = 0;
 var nbreEssai = 0;
 // Nombre d'essais max
-var nbreEssaisMax = 6;
+var nbreEssaisMax = 8;
 
 // Tant que le nombreChoisi n'est pas égal à la solution 
 // et que le nombre d'essai est inférieur au nombre d'essais max
